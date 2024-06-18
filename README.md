@@ -27,7 +27,7 @@ Create a client/server program in C that can send strings through UNIX signals.
 1. Clone the repository:
    ```sh
    git clone https://github.com/BWG31/minitalk
-2. Compile the library:
+2. Compile the executables:
     ```sh
     make
 ## Usage
